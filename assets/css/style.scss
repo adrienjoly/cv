@@ -20,6 +20,12 @@ body {
     margin-left: auto;
 }
 
+#shodo-watermark {
+    transform: rotate(-90deg);
+    color: red;
+    font-size: 28px;
+}
+
 #shodo-logo {
     display: block;
     width: 220px;
