@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "fr-FR" }}" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="{{ site.keywords }}">
+    <link href="/icon.png" rel="icon" type="image/x-png">  
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="{{ page.containerClass | default: 'container-lg' }} px-3 my-5 markdown-body">
+      <img src="/img/photo.jpg" alt="Adrien Joly, photo by Camille Betinyani" />
+
+      {{ content }}
+
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. {% github_edit_link "Improve this page" %}.
+      </div>
+    </div>
+  </body>
+</html>
