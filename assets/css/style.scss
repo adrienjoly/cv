@@ -44,6 +44,10 @@ h3 {
     width: 120%;
 }
 
+h4 {
+    color: red;
+}
+
 ul {
     list-style: none; /* Remove default bullets */
 }
@@ -55,4 +59,8 @@ ul li::before {
     display: inline-block; /* Needed to add space between the bullet and the text */
     width: 1em; /* Also needed for space (tweak if needed) */
     margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+td:first-child {
+    white-space: nowrap; /* prevent automatic line breaks in first column of tables */
 }

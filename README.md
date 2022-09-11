@@ -11,7 +11,7 @@
 
 ### COMPETENCES
 
-### TECHNIQUES
+#### TECHNIQUES
 
 | Méthodologie           | DDD (Event Storming, Architecture Hexagonale), BDD, TDD, Agile, Pair- programming, Refactoring Legacy, MicroServices |
 | DevOps                 | Docker, Google Cloud, Kubernetes, Terraform, GitHub Actions |
@@ -21,7 +21,7 @@
 | Outils                 | Visual Studio Code, Eclipse, ESlint |
 | Tests                  | Jest, Mocha, Chai, Jasmine, Cypress, Selenium, Cucumber |
 
-### DOMAINES D’INTERVENTIONS
+#### DOMAINES D’INTERVENTIONS
 
 - Accompagnement dans la création de culture et vision d’équipe, autour du Craftsmanship, de la maximisation de la création de valeur et de la gestion de la production
 - Conduite d’équipe de développement et mise en place d’Architecture MicroServices
@@ -32,7 +32,7 @@ devops)
 - Formation et accompagnement des équipes dans l’adoption des techniques du DDD au niveau tactique (design logiciel et du SI) et stratégique (organisationnel)
 - Décommissionnement de Code Legacy par refactoring progressif
  
-### CONFÉRENCES DONNEES ET PUBLICATIONS
+#### CONFÉRENCES DONNEES ET PUBLICATIONS
 
 - DEVOXX - Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry (Avril 2022)
 - Coupable de code legacy en JS: comment s’en sortir ? (Octobre 2021)
@@ -40,7 +40,7 @@ devops)
 - Comment rendre un code legacy à nouveau maintenable
 - Talks donnés : voir https://adrienjoly.com/talks/
 
-### TRAINING & CONFÉRENCES SUIVIS
+#### TRAINING & CONFÉRENCES SUIVIS
 
 - Michael FEATHERS – Masterclass Reducing Technical Debt (Juin 2022)
 - Domain Modeling Made Functional with Scott WLASCHIN (Octobre 2020)
@@ -49,7 +49,7 @@ devops)
 - S’affirmer dans ses relations professionnelles - Assertivité les bases (2019)
 - Conférences DotJS & BestOfWeb (2019)
 
-### CENTRES D’INTÉRÊTS
+#### CENTRES D’INTÉRÊTS
 
 - Musique : pratique de la batterie en groupe, enregistrement, concerts.
 - Réalisation et maintenance de projets perso open-source (side projects)
@@ -81,7 +81,7 @@ entre Product Managers et développeurs)
   - identification des sujets techniques prioritaires ou à prioriser
   - aide au recrutement (profils de leaders / référents)
  
-Environnement : TYPESCRIPT, NODE.JS, DOCKER, POSTGRESQL, JEST, GOOGLE CLOUD, GITHUB ACTIONS
+> Environnement : TYPESCRIPT, NODE.JS, DOCKER, POSTGRESQL, JEST, GOOGLE CLOUD, GITHUB ACTIONS
 
 #### Mars 2020 à Avril 2021 - SIGNAUX FAIBLES / BETA.GOUV
 
@@ -98,7 +98,7 @@ Chargé d’industrialisation de la chaîne de traitement de données (5 ingéni
 - Mesure et augmentation progressive de la qualité de code et de sa couverture par des tests - Transformation d’une API HTTP en un outil en ligne de commande (CLI)
 - Amélioration progressive de la fiabilité et des performances des traitements de données
 
-Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, GOLANG, DOCKER, MONGODB
+> Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, GOLANG, DOCKER, MONGODB
 
 #### Depuis Novembre 2017 - ALGOLIA
 
@@ -118,7 +118,7 @@ devops.
 - Développement de briques clés : API REST, intégration Google Analytics, parsing PDF... - Mis en place de deux documentations : utilisateur et maintenance.
 - Collaboration en langue Anglaise avec collègues français, européens et américains.
 
-Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, EXPRESS.JS, REACT.JS, JEST, CYPRESS, ESLINT, GIT, DOCKER, KUBERNETES, RABBITMQ, REDIS, GOOGLE CLOUD
+> Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, EXPRESS.JS, REACT.JS, JEST, CYPRESS, ESLINT, GIT, DOCKER, KUBERNETES, RABBITMQ, REDIS, GOOGLE CLOUD
 
 #### Avril 2015 à Septembre 2017 - Développeur Indépendant et Entrepreneur Web
 
@@ -130,7 +130,7 @@ Principales réalisations et prestations :
 - Réalisation, promotion et monétisation de Next Step for Trello : https://adrienjoly.com/chrome-next-step- for-trello/
 - Co-production d’un MOOC en Français sur comment lancer une startup avec la méthode Lean: https://www.udemy.com/course/startuptour/
 
-Environnement : JAVASCRIPT, NODE.JS, METEOR.JS, MONGODB
+> Environnement : JAVASCRIPT, NODE.JS, METEOR.JS, MONGODB
 
 #### Octobre 2010 à Février 2015 - WHYD
 
@@ -150,7 +150,7 @@ implémentation, déploiement, monitoring, débogage, support technique & analyt
 - Transformation en projet open-source, refactoring progressif, communication, crowdfunding.
 - La start-up a été couverte par TechCrunch, LifeHacker, Forbes, puis incubée par Y-Combinator
 
-Environnement : JAVASCRIPT, NODE.JS, MONGODB, JQUERY, FREEBASE
+> Environnement : JAVASCRIPT, NODE.JS, MONGODB, JQUERY, FREEBASE
 
 #### Septembre 2007 à Septembre 2010 – ALCATEL LUCENT BELL LABS
 
@@ -164,7 +164,7 @@ Contribution au développement de logiciels embarqués pour terminaux mobiles Pr
 - Écriture et publications de brevets internationaux.
 - Ecriture de la thèse et présentation des résultats intermédiaires en conférence internationale.
 
-Environnement : JAVA, JAVASCRIPT
+> Environnement : JAVA, JAVASCRIPT
 
 #### Octobre 2006 à Août 2007 - ATOS ORIGIN Intégration
 
@@ -176,5 +176,5 @@ Contribution au développement de logiciels embarqués pour terminaux mobiles Pr
 - Implémentation pour la R&D de Gemalto d’un proxy en C++ permettant au système d’exploitation d’afficher de manière performante des pages Web servies par un serveur JAVA sur carte SIM.
 - Écriture d’un jeu de tests end-to-end et recette du projet auprès du client.
 
-Environnement : C++, VISUAL STUDIO, WINDOWS MOBILE
+> Environnement : C++, VISUAL STUDIO, WINDOWS MOBILE
  
