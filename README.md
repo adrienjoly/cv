@@ -13,13 +13,13 @@
 
 #### TECHNIQUES
 
-| Méthodologie           | DDD (Event Storming, Architecture Hexagonale), BDD, TDD, Agile, Pair- programming, Refactoring Legacy, MicroServices |
-| DevOps                 | Docker, Google Cloud, Kubernetes, Terraform, GitHub Actions |
-| Langages & Plateformes | JavaScript, TypeScript, Node.JS, Go, C++, Java |
-| Frameworks             | Express.JS, Fastify, Apollo, React.JS, Vue.JS |
-| SGBD                   | MongoDB, Firebase, PostgreSQL, MySQL, Redis, Elasticsearch |
-| Outils                 | Visual Studio Code, Eclipse, ESlint |
-| Tests                  | Jest, Mocha, Chai, Jasmine, Cypress, Selenium, Cucumber |
+| Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), BDD, TDD, Agile, Pair- programming, Refactoring Legacy, MicroServices |
+| DevOps :                 | Docker, Google Cloud, Kubernetes, Terraform, GitHub Actions |
+| Langages & Plateformes : | JavaScript, TypeScript, Node.JS, Go, C++, Java |
+| Frameworks :             | Express.JS, Fastify, Apollo, React.JS, Vue.JS |
+| SGBD :                   | MongoDB, Firebase, PostgreSQL, MySQL, Redis, Elasticsearch |
+| Outils :                 | Visual Studio Code, Eclipse, ESlint |
+| Tests :                  | Jest, Mocha, Chai, Jasmine, Cypress, Selenium, Cucumber |
 
 #### DOMAINES D’INTERVENTIONS
 
@@ -83,6 +83,8 @@ entre Product Managers et développeurs)
  
 > Environnement : TYPESCRIPT, NODE.JS, DOCKER, POSTGRESQL, JEST, GOOGLE CLOUD, GITHUB ACTIONS
 
+---
+
 #### Mars 2020 à Avril 2021 - SIGNAUX FAIBLES / BETA.GOUV
 
 Senior Software Engineer
@@ -100,7 +102,9 @@ Chargé d’industrialisation de la chaîne de traitement de données (5 ingéni
 
 > Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, GOLANG, DOCKER, MONGODB
 
-#### Depuis Novembre 2017 - ALGOLIA
+---
+
+#### Novembre 2017 à Février 2020 - ALGOLIA
 
 Senior Software Engineer
 
@@ -120,6 +124,8 @@ devops.
 
 > Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, EXPRESS.JS, REACT.JS, JEST, CYPRESS, ESLINT, GIT, DOCKER, KUBERNETES, RABBITMQ, REDIS, GOOGLE CLOUD
 
+---
+
 #### Avril 2015 à Septembre 2017 - Développeur Indépendant et Entrepreneur Web
 
 Expériences variées allant du conseil à la production d’applications et de contenus.
@@ -131,6 +137,8 @@ Principales réalisations et prestations :
 - Co-production d’un MOOC en Français sur comment lancer une startup avec la méthode Lean: https://www.udemy.com/course/startuptour/
 
 > Environnement : JAVASCRIPT, NODE.JS, METEOR.JS, MONGODB
+
+---
 
 #### Octobre 2010 à Février 2015 - WHYD
 
@@ -152,6 +160,8 @@ implémentation, déploiement, monitoring, débogage, support technique & analyt
 
 > Environnement : JAVASCRIPT, NODE.JS, MONGODB, JQUERY, FREEBASE
 
+---
+
 #### Septembre 2007 à Septembre 2010 – ALCATEL LUCENT BELL LABS
 
 Doctorant CIFRE
@@ -165,6 +175,8 @@ Contribution au développement de logiciels embarqués pour terminaux mobiles Pr
 - Ecriture de la thèse et présentation des résultats intermédiaires en conférence internationale.
 
 > Environnement : JAVA, JAVASCRIPT
+
+---
 
 #### Octobre 2006 à Août 2007 - ATOS ORIGIN Intégration
 
