@@ -1,12 +1,14 @@
-.PHONY: build
+.PHONY: serve build
 
-default: build
+default: serve
 
-build: clean _dist
-
-clean:
-	rm -rf _dist/
-
-_dist:
+serve:
 	@echo "We assume that Ruby and its bundler are already installed"
 	bundle install
+	bundle exec jekyll serve
+
+build:
+	@echo "We assume that Ruby and its bundler are already installed"
+	bundle install
+	rm -rf _site/
+	bundle exec jekyll build
