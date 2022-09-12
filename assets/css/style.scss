@@ -24,9 +24,7 @@ body {
     transform: rotate(-90deg);
     color: red;
     font-size: 48px;
-    position: relative;
-    top: 0;
-    left: 0;
+    transform-origin: bottom left;
 }
 
 #shodo-logo {
