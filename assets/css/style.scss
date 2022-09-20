@@ -7,6 +7,8 @@
 
 $accent-color: #eb2149;
 
+$footer-height: 36px;
+
 @font-face {
   font-family: "Gelion";
   src: url("/assets/fonts/Gelion-Light.otf");
@@ -78,24 +80,27 @@ body > * {
 footer {
   text-align: center;
   margin-top: 48px;
-  line-height: 48px;
-  height: 48px;
+  height: $footer-height;
+  line-height: $footer-height;
   margin-bottom: 24px;
 }
 
 #foot-logo {
   float: right;
-  width: 48px;
-  height: 48px;
+  width: $footer-height;
+  height: $footer-height;
 }
 
 #foot-email {
   float: left;
-  width: 48px; /* artificially set as same as #foot-logo's, so that the "shodo" brand remains centered */
+  font-size: 1.1em;
+  width: $footer-height; /* so that the "shodo" brand remains centered */
 }
 
 #foot-shodo {
   color: $accent-color;
+  font-size: 1.2em;
+  letter-spacing: 0.2em;
 }
 
 .markdown-body h1,
@@ -190,10 +195,10 @@ footer {
 /* repeat footer on every page, when printed, e.g. to PDF */
 @media print {
   footer, .footer-space {
-    height: 100px;
+    height: $footer-height;
     width: 100%;
-    padding: 10pt;
-    margin: 10pt 0;
+    padding: 0;
+    margin: 0;
   }
 
   footer {
