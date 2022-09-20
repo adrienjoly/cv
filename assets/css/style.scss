@@ -5,6 +5,8 @@
   box-sizing: border-box;
 }
 
+$accent-color: #eb2149;
+
 @font-face {
   font-family: "Gelion";
   src: url("/assets/fonts/Gelion-Light.otf");
@@ -60,7 +62,7 @@ body > * {
   position: absolute;
   writing-mode: vertical-lr;
   transform: rotate(180deg);
-  color: red;
+  color: $accent-color;
   font-size: 44px;
   letter-spacing: 0.2em;
 }
@@ -93,7 +95,7 @@ footer {
 }
 
 #foot-shodo {
-  color: red;
+  color: $accent-color;
 }
 
 .markdown-body h1,
@@ -105,13 +107,13 @@ footer {
 }
 
 .markdown-body h1 {
-  color: red;
+  color: $accent-color;
   text-align: center;
   font-family: "Manofa";
 }
 
 .markdown-body h2 {
-  color: red;
+  color: $accent-color;
   text-align: center;
   font-family: "Manofa";
   margin-top: 12px;
@@ -139,12 +141,12 @@ footer {
 }
 
 .markdown-body h4 {
-  color: red;
+  color: $accent-color;
   font-family: "Manofa";
 }
 
 .markdown-body blockquote {
-  color: red;
+  color: $accent-color;
   font-weight: bold;
   margin-block-start: 0;
   margin-block-end: 0;
@@ -158,7 +160,7 @@ footer {
 
 .markdown-body ul li::before {
   content: "\25AA"; /* Add content: 25AA is unicode for a square bullet */
-  color: red; /* Change the color */
+  color: $accent-color; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
@@ -180,7 +182,7 @@ footer {
 
 .markdown-body td:first-child strong {
   font-family: "Manofa";
-  color: red;
+  color: $accent-color;
 }
 
 /* repeat footer on every page, when printed, e.g. to PDF */
