@@ -4,10 +4,10 @@
 
 ### FORMATION
 
-| **2010** | Doctorat en Informatique / Recherche d’Information et Adaptation au Contexte |
+| **2010** | **Doctorat en Informatique / Recherche d’Information et Adaptation au Contexte** |
 |          | Thèse CIFRE entre INSA de LYON et Alcatel Lucent Bell Labs                   |
 |          | |
-| **2006** | Diplôme d’Ingénieur en Informatique                                          |
+| **2006** | **Diplôme d’Ingénieur en Informatique**                                          |
 |          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                    |
 |          | |
 
@@ -15,33 +15,25 @@
 
 #### TECHNIQUES
 
-| Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), BDD, TDD, Agile, Pair- programming, Refactoring Legacy, MicroServices |
-| DevOps :                 | Docker, Google Cloud, Kubernetes, Terraform, GitHub Actions |
-| Langages & Plateformes : | JavaScript, TypeScript, Node.JS, Go, C++, Java |
-| Frameworks :             | Express.JS, Fastify, Apollo, React.JS, Vue.JS |
-| SGBD :                   | MongoDB, Firebase, PostgreSQL, MySQL, Redis, Elasticsearch |
+| Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), **BDD**, **TDD**, Agile, Pair- programming, Refactoring Legacy, MicroServices |
+| DevOps :                 | **Docker**, Google Cloud, Kubernetes, Terraform, GitHub Actions |
+| Langages & Plateformes : | **JavaScript**, **TypeScript**, **Node.JS**, Go, C++, Java |
+| Frameworks :             | **Express.JS**, Fastify, Apollo, React.JS, Vue.JS |
+| SGBD :                   | **MongoDB**, Firebase, **PostgreSQL**, MySQL, Redis, Elasticsearch |
 | Outils :                 | Visual Studio Code, Eclipse, ESlint |
-| Tests :                  | Jest, Mocha, Chai, Jasmine, Cypress, Selenium, Cucumber |
+| Tests :                  | **Jest**, Mocha, Chai, Jasmine, **Cypress**, Selenium, Cucumber |
 
 #### DOMAINES D’INTERVENTIONS
 
-- Accompagnement dans la création de culture et vision d’équipe, autour du Craftsmanship, de la maximisation de la création de valeur et de la gestion de la production
+- **Accompagnement dans la création de culture et vision d’équipe**, autour du **Craftsmanship**, de la maximisation de la **création de valeur** et de la **gestion de la production**
 - Conduite d’équipe de développement et mise en place d’Architecture MicroServices
-- Mentoring autour des bonnes pratiques (SOLID, Clean Code, TDD)
+- **Mentoring autour des bonnes pratiques (SOLID, Clean Code, TDD)**
 - Accompagnement sur le cycle complet de développement produit : de l’idéation à la production (culture
 devops)
 - Accompagement sur la mise en place d’intégration continue et de tests automatisés efficaces
-- Formation et accompagnement des équipes dans l’adoption des techniques du DDD au niveau tactique (design logiciel et du SI) et stratégique (organisationnel)
-- Décommissionnement de Code Legacy par refactoring progressif
+- **Formation et accompagnement des équipes** dans l’adoption des techniques du **DDD** au niveau tactique (**design logiciel et du SI**) et stratégique (**organisationnel**)
+- **Décommissionnement de Code Legacy par refactoring progressif**
  
-#### CONFÉRENCES DONNEES ET PUBLICATIONS
-
-- DEVOXX - Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry (Avril 2022)
-- Coupable de code legacy en JS: comment s’en sortir ? (Octobre 2021)
-- InfoQ - Writing Automated Tests on a Legacy Node.js Back-end (Mars 2022)
-- Comment rendre un code legacy à nouveau maintenable
-- Talks donnés : voir https://adrienjoly.com/talks/
-
 #### TRAINING & CONFÉRENCES SUIVIS
 
 - Michael FEATHERS – Masterclass Reducing Technical Debt (Juin 2022)
@@ -50,6 +42,15 @@ devops)
 - SoCraTes (Octobre 2019)
 - S’affirmer dans ses relations professionnelles - Assertivité les bases (2019)
 - Conférences DotJS & BestOfWeb (2019)
+- Talks donnés : voir adrienjoly.com/talks
+
+#### CONFÉRENCES DONNEES ET PUBLICATIONS
+
+- DEVOXX - Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry (Avril 2022)
+- Coupable de code legacy en JS: comment s’en sortir ? (Octobre 2021)
+- InfoQ - Writing Automated Tests on a Legacy Node.js Back-end (Mars 2022)
+- Comment rendre un code legacy à nouveau maintenable
+- [https://adrienjoly.com/talks/](https://adrienjoly.com/talks/)
 
 #### CENTRES D’INTÉRÊTS
 
@@ -60,16 +61,19 @@ devops)
 
 #### Avril 2021 à Août 2022 - Choose
 
-Tech Lead / Coach Craft
+**Tech Lead / Coach Craft**
 
-Choose est une application mobile e-commerce de vente temporaire proposée par des marques finement sélectionnées. Elle est établie en Europe de l’Ouest et aux USA.
+*Choose est une application mobile e-commerce de vente temporaire proposée par des marques finement sélectionnées. Elle est établie en Europe de l’Ouest et aux USA.*
 
-Principales actions au sein d’une équipe allant jusqu’à 20 personnes, intervention au sein des squads B2C et B2B :
+**Au sein d’une équipe allant jusqu’à 20 personnes, intervention au sein des squads B2C et B2B.**
+ 
+Principales actions:
 
 - Accompagnement et montée en compétences des développeurs :
-  - Écritureetmaintenancedetestsautomatisés,enintégrationcontinue o Injectiondedépendances
-  - ArchitectureHexagonale,DDD
-  - Aideàreprendreconfiancesurlerythmedesdéploiements
+  - Écriture et maintenance de tests automatisés, en intégration continue
+  - Injection de dépendances
+  - Architecture Hexagonale, DDD
+  - Aide à reprendre confiance sur le rythme des déploiements
 - Prise en charge de tâches DevOps (migration Cloud, monorepo) pour soulager l’équipe
 - Mise en place de documentation et de procédures face aux incidents de production (post-mortem)
 - Mise en place d’un atelier hebdomadaire en mode mob-programming (pour documenter
@@ -89,11 +93,13 @@ entre Product Managers et développeurs)
 
 #### Mars 2020 à Avril 2021 - SIGNAUX FAIBLES / BETA.GOUV
 
-Senior Software Engineer
+**Senior Software Engineer**
 
-Signaux Faibles est un produit qui aide des agents de l’État à prévenir les défaillances d’entreprises le plus tôt possible, en utilisant au mieux l’ensemble des données dont disposent les administrations et opérateurs de l’État.
+*Signaux Faibles est un produit qui aide des agents de l’État à prévenir les défaillances d’entreprises le plus tôt possible, en utilisant au mieux l’ensemble des données dont disposent les administrations et opérateurs de l’État.*
 
-Chargé d’industrialisation de la chaîne de traitement de données (5 ingénieurs) Principales réalisations :
+**Chargé d’industrialisation de la chaîne de traitement de données (5 ingénieurs)**
+
+Principales réalisations :
 - Audit de l’existant applicatif (développé par un expert en données)
 - Proposition d’évolutions pour réduire les anomalies opérationnelles et faciliter l’évolution
 - Mise en place de tests automatisés, intégration continue et de documentation
@@ -108,11 +114,11 @@ Chargé d’industrialisation de la chaîne de traitement de données (5 ingéni
 
 #### Novembre 2017 à Février 2020 - ALGOLIA
 
-Senior Software Engineer
+**Senior Software Engineer**
 
-Algolia est une start-up franco-américaine qui développe sa propre technologie de recherche en SaaS, pour les sites internet, sites e-commerce et applications mobiles de ses clients.
+*Algolia est une start-up franco-américaine qui développe sa propre technologie de recherche en SaaS, pour les sites internet, sites e-commerce et applications mobiles de ses clients.*
 
-Tech Lead de l’équipe produit “Custom Crawler” (5 ingénieurs) qui indexe les données des clients depuis leur site web pour alimenter leur moteur de recherche interne.
+**Tech Lead de l’équipe produit “Custom Crawler” (5 ingénieurs) qui indexe les données des clients depuis leur site web pour alimenter leur moteur de recherche interne.**
 
 Principales réalisations :
 - Contribution à la code base backend et frontend.
@@ -121,7 +127,8 @@ Principales réalisations :
 - Coaching technique de l’équipe sur les bonnes pratiques : SOLID, Design Patterns.
 - Migration et maintenance de l’infrastructure du produit vers Google Kubernetes Engine dans une culture
 devops.
-- Développement de briques clés : API REST, intégration Google Analytics, parsing PDF... - Mis en place de deux documentations : utilisateur et maintenance.
+- Développement de briques clés : API REST, intégration Google Analytics, parsing PDF...
+- Mise en place de deux documentations : utilisateur et maintenance.
 - Collaboration en langue Anglaise avec collègues français, européens et américains.
 
 > Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, EXPRESS.JS, REACT.JS, JEST, CYPRESS, ESLINT, GIT, DOCKER, KUBERNETES, RABBITMQ, REDIS, GOOGLE CLOUD
@@ -130,7 +137,7 @@ devops.
 
 #### Avril 2015 à Septembre 2017 - Développeur Indépendant et Entrepreneur Web
 
-Expériences variées allant du conseil à la production d’applications et de contenus.
+**Expériences variées allant du conseil à la production d’applications et de contenus.**
 
 Principales réalisations et prestations :
 - CTO par intérim auprès d’une équipe de jeunes développeurs au service de la startup “Ayni” 
@@ -144,11 +151,11 @@ Principales réalisations et prestations :
 
 #### Octobre 2010 à Février 2015 - WHYD
 
-Lead Développeur
+**Lead Développeur**
 
-WHYD était une start-up parisienne dont l’ambition était de connecter les internautes par centres d’intérêts, d’abord dans le domaine culturel, puis par la sélection et le partage de playlists musicales.
+*WHYD était une start-up parisienne dont l’ambition était de connecter les internautes par centres d’intérêts, d’abord dans le domaine culturel, puis par la sélection et le partage de playlists musicales.*
 
-Recherche et développement, conduite du développement des itérations produit
+**Recherche et développement, conduite du développement des itérations produit**
 
 Principales réalisations :
 - Encadrement et formation d’une équipe de 3 jeunes développeurs et 1 jeune designer UI
@@ -166,11 +173,13 @@ implémentation, déploiement, monitoring, débogage, support technique & analyt
 
 #### Septembre 2007 à Septembre 2010 – ALCATEL LUCENT BELL LABS
 
-Doctorant CIFRE
+**Doctorant CIFRE**
 
-ALCATEL LUCENT est un des leaders mondiaux des télécoms et des réseaux. BELL LABS est sa division recherche.
+*ALCATEL LUCENT est un des leaders mondiaux des télécoms et des réseaux. BELL LABS est sa division recherche.*
 
-Contribution au développement de logiciels embarqués pour terminaux mobiles Principales réalisations :
+**Contribution au développement de logiciels embarqués pour terminaux mobiles**
+
+Principales réalisations :
 - Participation à un projet européen de systèmes multimodal.
 - Développement de démonstrateurs technologiques en équipes.
 - Écriture et publications de brevets internationaux.
@@ -182,11 +191,13 @@ Contribution au développement de logiciels embarqués pour terminaux mobiles Pr
 
 #### Octobre 2006 à Août 2007 - ATOS ORIGIN Intégration
 
-Ingénieur logiciel R&D
+**Ingénieur logiciel R&D**
 
-Atos Origin Intégration accompagne ses clients sur un large spectre de missions allant du conseil à la réalisation technique. L’équipe “plateformes mobiles” était dédiée à la conception de solutions pour les terminaux mobiles émergents (ancêtres de nos smartphones): PDA / PocketPC sous Windows Mobile.
+*Atos Origin Intégration accompagne ses clients sur un large spectre de missions allant du conseil à la réalisation technique. L’équipe “plateformes mobiles” était dédiée à la conception de solutions pour les terminaux mobiles émergents (ancêtres de nos smartphones): PDA / PocketPC sous Windows Mobile.*
  
-Contribution au développement de logiciels embarqués pour terminaux mobiles Principales réalisations :
+**Contribution au développement de logiciels embarqués pour terminaux mobiles**
+
+Principales réalisations :
 - Implémentation pour la R&D de Gemalto d’un proxy en C++ permettant au système d’exploitation d’afficher de manière performante des pages Web servies par un serveur JAVA sur carte SIM.
 - Écriture d’un jeu de tests end-to-end et recette du projet auprès du client.
 
