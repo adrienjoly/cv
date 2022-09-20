@@ -140,9 +140,9 @@ devops.
 
 Principales réalisations et prestations :
 - CTO par intérim auprès d’une équipe de jeunes développeurs au service de la startup “Ayni” 
-- Conception et implémentation d’applications Web pour BeMyApp (https://www.hackathon.com/), Panoply (https://www.panoplycity.com/fr/), Deepki (développement d’un outil permettant de faire des recommandations d’optimisations énergétiques en uploadant une facture EDF au format PDF).
-- Réalisation, promotion et monétisation de Next Step for Trello : https://adrienjoly.com/chrome-next-step- for-trello/
-- Co-production d’un MOOC en Français sur comment lancer une startup avec la méthode Lean: https://www.udemy.com/course/startuptour/
+- Conception et implémentation d’applications Web pour BeMyApp ([https://www.hackathon.com/](https://www.hackathon.com/)), Panoply ([https://www.panoplycity.com/fr/](https://www.panoplycity.com/fr/)), Deepki (développement d’un outil permettant de faire des recommandations d’optimisations énergétiques en uploadant une facture EDF au format PDF).
+- Réalisation, promotion et monétisation de Next Step for Trello : [https://adrienjoly.com/chrome-next-step-for-trello/](https://adrienjoly.com/chrome-next-step-for-trello/)
+- Co-production d’un MOOC en Français sur comment lancer une startup avec la méthode Lean: [https://www.udemy.com/course/startuptour/](https://www.udemy.com/course/startuptour/)
 
 > Environnement : JAVASCRIPT, NODE.JS, METEOR.JS, MONGODB
 
