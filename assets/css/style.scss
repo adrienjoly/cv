@@ -218,7 +218,20 @@ footer {
     top: 58px;
   }
 
-  // p {
-  //   page-break-inside: avoid;
-  // }
+  p {
+    page-break-inside: avoid;
+  }
+
+  /* hack to prevent page breaks between headings and content */
+  /* cf https://stackoverflow.com/a/53742871/592254 */
+  h4 {
+    page-break-inside: avoid;
+  }
+  h4::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+  }
+
 }
