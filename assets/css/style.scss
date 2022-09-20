@@ -73,7 +73,7 @@ body > * {
 
 #shodo-logo {
   display: block;
-  width: 154px;
+  width: 148px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 60px;
@@ -125,7 +125,8 @@ footer {
   text-align: center;
   font-family: "Manofa";
   font-size: 1.5em;
-  margin-top: 12px;
+  margin-top: 6px;
+  margin-bottom: 46px;
 }
 
 .markdown-body h2::before {
@@ -138,14 +139,13 @@ footer {
 
 .markdown-body h3 {
   color: white;
-  font-weight: normal;
   font-size: 1.4em;
   background: linear-gradient(0.25turn, black, white);
   position: relative;
   left: -10%;
-  padding: 5px 10%;
+  padding: 4px 10%;
   width: 120%;
-  margin-top: 48px;
+  margin-top: 24px;
   margin-bottom: 24px;
 }
 
@@ -182,7 +182,7 @@ footer {
 
 .markdown-body td:first-child {
   white-space: nowrap; /* prevent automatic line breaks in first column of tables */
-  padding-right: 28px;
+  padding-right: 32px;
 }
 
 .markdown-body td:first-child {

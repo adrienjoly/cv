@@ -5,11 +5,10 @@
 ### FORMATION
 
 | **2010** | **Doctorat en Informatique / Recherche d’Information et Adaptation au Contexte** |
-|          | Thèse CIFRE entre INSA de LYON et Alcatel Lucent Bell Labs                   |
-|          | |
+|          | Thèse CIFRE entre INSA de LYON et Alcatel Lucent Bell Labs                       |
+|          |                                                                                  |
 | **2006** | **Diplôme d’Ingénieur en Informatique**                                          |
-|          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                    |
-|          | |
+|          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                        |
 
 ### COMPETENCES
 
