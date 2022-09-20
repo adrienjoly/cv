@@ -8,6 +8,10 @@ My resume:
 
 Feel free to fork!
 
+## Comparison with original CV (made with MS Word)
+
+![](diff/diff.png)
+
 ## How to use locally
 
 After installing Ruby and its bundler:
