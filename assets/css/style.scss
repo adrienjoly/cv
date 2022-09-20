@@ -21,10 +21,11 @@ body {
 }
 
 #shodo-watermark {
-    transform: rotate(-90deg);
+    position: absolute;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
     color: red;
     font-size: 48px;
-    transform-origin: bottom left;
 }
 
 #shodo-logo {

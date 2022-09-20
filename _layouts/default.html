@@ -10,7 +10,7 @@
   </head>
   <body>
     <div class="{{ page.containerClass | default: 'container-lg' }} px-3 my-5 markdown-body">
-      <p id="shodo-watermark">SHODO</p>
+      <span id="shodo-watermark">SHODO</span>
       <img id="shodo-logo" src="{{ "/assets/shodo-logo-bw.png?v=" | append: site.github.build_revision | relative_url }}" alt="SHODO logo" />
 
       {{ content }}
