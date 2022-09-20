@@ -9,15 +9,26 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="{{ page.containerClass | default: 'container-lg' }} px-3 my-5 markdown-body">
-      <span id="shodo-watermark">SHODO</span>
-      <img id="shodo-logo" src="{{ "/assets/shodo-logo-bw.png?v=" | append: site.github.build_revision | relative_url }}" alt="SHODO logo" />
 
-      {{ content }}
+    <!-- we use a table to prevent footer from overlapping with content, on every printed page -->
+    <!-- cf https://stackoverflow.com/a/53850595/592254 -->
+    <table class="{{ page.containerClass | default: 'container-lg' }} px-3 my-5">
+      <tbody><tr><td>
+        <div id="pageHost" class="markdown-body">
+          <span id="shodo-watermark">SHODO</span>
+          <img id="shodo-logo" src="{{ "/assets/shodo-logo-bw.png?v=" | append: site.github.build_revision | relative_url }}" alt="SHODO logo" />
+          {{ content }}
+        </div>
+      </td></tr></tbody>
+      <tfoot><tr><td>
+        <div class="footer-space">&nbsp;</div>
+      </td></tr></tfoot>
+    </table>
 
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
-      </div>
-    </div>
-  </body>
+    <footer class="{{ page.containerClass | default: 'container-lg' }}">
+      <img id="foot-logo" src="{{ "/assets/shodo-logo-bw.png?v=" | append: site.github.build_revision | relative_url }}" alt="SHODO logo" />
+      <span id="foot-email">contact@shodo.io</span>
+      <span id="foot-shodo">SHODO</span>
+    </footer>
+</body>
 </html>

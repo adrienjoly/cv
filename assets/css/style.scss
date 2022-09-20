@@ -2,100 +2,149 @@
 ---
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
-    font-family: sans-serif;
-    line-height: 1.5;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
 
 body {
-    margin: 0;
+  margin: 0;
 }
 
-.container-lg {
+body > * {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media screen {
+  body > * {
     max-width: 1012px;
-    margin-right: auto;
-    margin-left: auto;
+  }  
 }
 
 #shodo-watermark {
-    position: absolute;
-    writing-mode: vertical-lr;
-    transform: rotate(180deg);
-    color: red;
-    font-size: 48px;
+  position: absolute;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  color: red;
+  font-size: 48px;
 }
 
 #shodo-logo {
-    display: block;
-    width: 220px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    margin-bottom: 60px;
+  display: block;
+  width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 48px;
+  line-height: 48px;
+  height: 48px;
+  margin-bottom: 24px;
+}
+
+#foot-logo {
+  float: right;
+  width: 48px;
+  height: 48px;
+}
+
+#foot-email {
+  float: left;
+  width: 48px; /* artificially set as same as #foot-logo's, so that the "shodo" brand remains centered */
+}
+
+#foot-shodo {
+  color: red;
 }
 
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3 {
-    border: 0 none;
+  border: 0 none;
 }
 
-h1 {
-    color: red;
-    text-align: center;
+.markdown-body h1 {
+  color: red;
+  text-align: center;
 }
 
-h2 {
-    color: red;
-    text-align: center;
+.markdown-body h2 {
+  color: red;
+  text-align: center;
 }
 
-h3 {
-    color: white;
-    background: linear-gradient(0.25turn, black, white);
-    position: relative;
-    left: -10%;
-    padding: 5px 10%;
-    width: 120%;
+.markdown-body h3 {
+  color: white;
+  background: linear-gradient(0.25turn, black, white);
+  position: relative;
+  left: -10%;
+  padding: 5px 10%;
+  width: 120%;
 }
 
-h4 {
-    color: red;
+.markdown-body h4 {
+  color: red;
 }
 
-blockquote {
-    color: red;
-    margin-block-start: 0;
-    margin-block-end: 0;
-    margin-inline-start: 0;
-    margin-inline-end: 0;
+.markdown-body blockquote {
+  color: red;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
 }
 
-ul {
-    list-style: none; /* Remove default bullets */
+.markdown-body ul {
+  list-style: none; /* Remove default bullets */
 }
 
-ul li::before {
-    content: "\25AA";  /* Add content: 25AA is unicode for a square bullet */
-    color: red; /* Change the color */
-    font-weight: bold; /* If you want it to be bold */
-    display: inline-block; /* Needed to add space between the bullet and the text */
-    width: 1em; /* Also needed for space (tweak if needed) */
-    margin-left: -1em; /* Also needed for space (tweak if needed) */
+.markdown-body ul li::before {
+  content: "\25AA"; /* Add content: 25AA is unicode for a square bullet */
+  color: red; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
 }
 
-tr {
-    vertical-align: top;
+.markdown-body tr {
+  vertical-align: top;
 }
 
-td:first-child {
-    white-space: nowrap; /* prevent automatic line breaks in first column of tables */
-    padding-right: 28px;
+.markdown-body td:first-child {
+  white-space: nowrap; /* prevent automatic line breaks in first column of tables */
+  padding-right: 28px;
 }
 
-td:first-child strong {
-    color: red;
+.markdown-body td:first-child strong {
+  color: red;
+}
+
+/* repeat footer on every page, when printed, e.g. to PDF */
+@media print {
+  footer, .footer-space {
+    height: 100px;
+    width: 100%;
+    padding: 10pt;
+    margin: 10pt 0;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0;
+  }
+
+  // p {
+  //   page-break-inside: avoid;
+  // }
 }
