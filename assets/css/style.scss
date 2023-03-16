@@ -11,29 +11,34 @@ $footer-height: 36px;
 
 @font-face {
   font-family: "Gelion";
-  src: url("/assets/fonts/Gelion-Light.otf");
+  src: url("/assets/fonts/Gelion-Light.otf"),
+       url("/assets/fonts/gelion-light.ttf");
 }
 
 @font-face {
   font-family: "Gelion";
-  src: url("/assets/fonts/Gelion-Light-Italic.otf");
+  src: url("/assets/fonts/Gelion-Light-Italic.otf"),
+       url("/assets/fonts/gelion-light-italic.ttf");
   font-style: italic;
 }
 
 @font-face {
   font-family: "Gelion";
-  src: url("/assets/fonts/Gelion-Regular.ttf");
+  src: url("/assets/fonts/Gelion-Regular.ttf"),
+       url("gelion-regular.ttf");
   font-weight: bold;
 }
 
 @font-face {
   font-family: "Manofa";
-  src: url("/assets/fonts/The Northern Block Ltd - Manofa Condensed Light.otf");
+  src: url("/assets/fonts/The Northern Block Ltd - Manofa Condensed Light.otf"),
+       url("/assets/fonts/manofa-condensed-light.ttf");
 }
 
 @font-face {
   font-family: "Manofa";
-  src: url("/assets/fonts/The Northern Block Ltd - Manofa Condensed.otf");
+  src: url("/assets/fonts/The Northern Block Ltd - Manofa Condensed.otf"),
+       url("/assets/fonts/manofa-condensed.ttf");
   font-weight: bold;
 }
 
