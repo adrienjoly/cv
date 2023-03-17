@@ -10,11 +10,11 @@
 | **2006** | **Diplôme d’Ingénieur en Informatique**                                          |
 |          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                        |
 
-### COMPETENCES
+### COMPÉTENCES
 
 #### TECHNIQUES
 
-| Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), **BDD**, **TDD**, Agile, Pair- programming, Refactoring Legacy, MicroServices |
+| Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), **BDD**, **TDD**, Agile, Pair-programming, Refactoring Legacy, MicroServices |
 | DevOps :                 | **Docker**, Google Cloud, Kubernetes, Terraform, GitHub Actions |
 | Langages & Plateformes : | **JavaScript**, **TypeScript**, **Node.JS**, Go, C++, Java |
 | Frameworks :             | **Express.JS**, Fastify, Apollo, React.JS, Vue.JS |
@@ -29,7 +29,7 @@
 - **Mentoring autour des bonnes pratiques (SOLID, Clean Code, TDD)**
 - Accompagnement sur le cycle complet de développement produit : de l’idéation à la production (culture
 devops)
-- Accompagement sur la mise en place d’intégration continue et de tests automatisés efficaces
+- Accompagnement sur la mise en place d’intégration continue et de tests automatisés efficaces
 - **Formation et accompagnement des équipes** dans l’adoption des techniques du **DDD** au niveau tactique (**design logiciel et du SI**) et stratégique (**organisationnel**)
 - **Décommissionnement de Code Legacy par refactoring progressif**
  
@@ -56,7 +56,7 @@ devops)
 - Musique : pratique de la batterie en groupe, enregistrement, concerts.
 - Réalisation et maintenance de projets perso open-source (side projects)
 
-### EXPERIENCES
+### EXPÉRIENCES
 
 #### Avril 2021 à Août 2022 - Choose
 
@@ -182,7 +182,7 @@ Principales réalisations :
 - Participation à un projet européen de systèmes multimodal.
 - Développement de démonstrateurs technologiques en équipes.
 - Écriture et publications de brevets internationaux.
-- Ecriture de la thèse et présentation des résultats intermédiaires en conférence internationale.
+- Écriture de la thèse et présentation des résultats intermédiaires en conférence internationale.
 
 > Environnement : JAVA, JAVASCRIPT
 
