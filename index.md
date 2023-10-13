@@ -33,22 +33,26 @@ devops)
 - **Formation et accompagnement des équipes** dans l’adoption des techniques du **DDD** au niveau tactique (**design logiciel et du SI**) et stratégique (**organisationnel**)
 - **Décommissionnement de Code Legacy par refactoring progressif**
  
-#### TRAINING & CONFÉRENCES SUIVIS
+#### TRAINING & CONFÉRENCES SUIVIES
 
+- DDD Stratégique, par Julien Topçu (Février 2023)
+- Conférence FlowCon (Octobre 2022)
 - Michael FEATHERS – Masterclass Reducing Technical Debt (Juin 2022)
 - Domain Modeling Made Functional with Scott WLASCHIN (Octobre 2020)
 - ParisTestConf (Novembre 2019)
 - SoCraTes (Octobre 2019)
 - S’affirmer dans ses relations professionnelles - Assertivité les bases (2019)
-- Conférences DotJS & BestOfWeb (2019)
 - Talks donnés : voir adrienjoly.com/talks
 
-#### CONFÉRENCES DONNEES ET PUBLICATIONS
+#### CONFÉRENCES DONNÉES ET PUBLICATIONS
 
+- Décommissionnement progressif de code legacy à l’aide d’AST (Janvier 2023)
+- Coder seul·e == vélocité optimale ? (Décembre 2022)
+- Co-conception pérenne avec Domain Driven Design, retour d’expérience (Septembre 2022)
 - DEVOXX - Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry (Avril 2022)
-- Coupable de code legacy en JS: comment s’en sortir ? (Octobre 2021)
 - InfoQ - Writing Automated Tests on a Legacy Node.js Back-end (Mars 2022)
-- Comment rendre un code legacy à nouveau maintenable
+- Coupable de code legacy en JS: comment s’en sortir ? (Octobre 2021)
+- Comment rendre un code legacy à nouveau maintenable (Juin 2020)
 - [https://adrienjoly.com/talks/](https://adrienjoly.com/talks/)
 
 #### CENTRES D’INTÉRÊTS
@@ -57,6 +61,37 @@ devops)
 - Réalisation et maintenance de projets perso open-source (side projects)
 
 ### EXPÉRIENCES
+
+#### Septembre 2022 à Mai 2023 - Omie
+
+**Coach Technique**
+
+*Omie conçoit et vend des produits alimentaires sains et respectueux de la planète, accessibles en termes de prix et rémunérateurs pour les producteurs.*
+
+**Accompagnement de deux équipes de développement, au côté du CTO, sur aspects stratégiques, techniques et organisationnels.**
+ 
+Principales actions:
+
+- Animation d'ateliers pour débloquer le déploiement régulier d'évolutions produit
+  - Accompagnement des développeurs sur résolution méthodique de régressions fonctionnelles
+  - Formation des développeurs sur l'écriture de tests automatisés, pour réduire l'effort de QA et réduire le temps de cycle
+- Accompagnement des développeurs sur leurs tâches et pratiques de développement
+  - Sensibilisation aux techniques de développement collaboratives efficaces: pair et mob programming en "strong style".
+  - Pair-programming sur résolution de bugs et l'écriture de fonctionnalité en TDD et/ou clean architecture
+  - Pair-programming sur refonte technique impliquant une migration de framework front-end (d'écrans React Native à des pages Next.js / ISR), pour optimisation des performances
+- Industrialisation du processus de développement
+  - Mise en place d'analyse statique du code (typage + linter) pour prévenir les défauts pendant la phase de développement
+  - Proposition de guidelines pour aligner l'équipe sur la manière de traiter les exceptions
+  - Aide à la documentation de process pour construire et déployer différents types de versions en production
+  - Optimisation du pipeline d'Intégration Continue (GitHub CI)
+- Conseil stratégique auprès du CTO
+  - Définition et publication d'un document de vision technique
+  - Audit continu de l'équipe front-end et proposition d'un plan priorisé d'évolution technique
+  - Conseils sur trajectoire de montée en compétence des développeurs
+
+> Environnement : TYPESCRIPT, NEXT.JS, GITHUB ACTIONS
+
+---
 
 #### Avril 2021 à Août 2022 - Choose
 
