@@ -262,5 +262,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 227)
 
+RUBY VERSION
+   ruby 2.7.8p225
+
 BUNDLED WITH
    2.3.19
