@@ -9,41 +9,7 @@ $accent-color: #eb2149;
 
 $footer-height: 36px;
 
-@font-face {
-  font-family: "Gelion";
-  src: url("/assets/fonts/Gelion-Light.otf"),
-       url("/assets/fonts/gelion-light.ttf");
-}
-
-@font-face {
-  font-family: "Gelion";
-  src: url("/assets/fonts/Gelion-Light-Italic.otf"),
-       url("/assets/fonts/gelion-light-italic.ttf");
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Gelion";
-  src: url("/assets/fonts/Gelion-Regular.ttf"),
-       url("gelion-regular.ttf");
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: "Manofa";
-  src: url("/assets/fonts/The Northern Block Ltd - Manofa Condensed Light.otf"),
-       url("/assets/fonts/manofa-condensed-light.ttf");
-}
-
-@font-face {
-  font-family: "Manofa";
-  src: url("/assets/fonts/The Northern Block Ltd - Manofa Condensed.otf"),
-       url("/assets/fonts/manofa-condensed.ttf");
-  font-weight: bold;
-}
-
 html {
-  font-family: "Gelion";
   line-height: 1.1;
   text-align: justify;
   text-justify: inter-word;
@@ -107,14 +73,12 @@ footer {
 .markdown-body h1 {
   color: $accent-color;
   text-align: center;
-  font-family: "Manofa";
   font-size: 1.5em;
 }
 
 .markdown-body h2 {
   color: $accent-color;
   text-align: center;
-  font-family: "Manofa";
   font-size: 1.5em;
   margin-top: 6px;
   margin-bottom: 46px;
@@ -143,7 +107,6 @@ footer {
 
 .markdown-body h4 {
   color: $accent-color;
-  font-family: "Manofa";
 }
 
 .markdown-body blockquote {
@@ -182,7 +145,6 @@ footer {
 }
 
 .markdown-body td:first-child strong {
-  font-family: "Manofa";
   color: $accent-color;
 }
 
