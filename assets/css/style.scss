@@ -13,6 +13,7 @@ html {
   line-height: 1.1;
   text-align: justify;
   text-justify: inter-word;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 html {
@@ -50,13 +51,13 @@ footer {
   margin-bottom: 24px;
 }
 
-#foot-email {
+#foot-left {
   float: left;
   font-size: 1.1em;
   width: $footer-height; /* so that the "shodo" brand remains centered */
 }
 
-#foot-shodo {
+#foot-center {
   color: $accent-color;
   font-size: 1.4em;
   letter-spacing: 0.2em;
