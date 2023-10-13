@@ -1,8 +1,14 @@
 # Adrien JOLY
 
-## Lead Tech / Coach Craft
+## Montreuil / Paris, France
 
-### FORMATION
+---
+
+### À propos
+
+J'aide les équipes de développement à produire des logiciels utiles et robustes, sur le long terme.
+
+### Formation
 
 | **2010** | **Doctorat en Informatique / Recherche d’Information et Adaptation au Contexte** |
 |          | Thèse CIFRE entre INSA de LYON et Alcatel Lucent Bell Labs                       |
@@ -10,9 +16,9 @@
 | **2006** | **Diplôme d’Ingénieur en Informatique**                                          |
 |          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                        |
 
-### COMPÉTENCES
+### Compétences
 
-#### TECHNIQUES
+#### Techniques
 
 | Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), **BDD**, **TDD**, Agile, Pair-programming, Refactoring Legacy, MicroServices |
 | DevOps :                 | **Docker**, Google Cloud, Kubernetes, Terraform, GitHub Actions |
@@ -22,7 +28,7 @@
 | Outils :                 | Visual Studio Code, Eclipse, ESlint |
 | Tests :                  | **Jest**, Mocha, Chai, Jasmine, **Cypress**, Selenium, Cucumber |
 
-#### DOMAINES D’INTERVENTIONS
+#### Domaines d'intervention
 
 - **Accompagnement dans la création de culture et vision d’équipe**, autour du **Craftsmanship**, de la maximisation de la **création de valeur** et de la **gestion de la production**
 - Conduite d’équipe de développement et mise en place d’Architecture MicroServices
@@ -33,7 +39,7 @@ devops)
 - **Formation et accompagnement des équipes** dans l’adoption des techniques du **DDD** au niveau tactique (**design logiciel et du SI**) et stratégique (**organisationnel**)
 - **Décommissionnement de Code Legacy par refactoring progressif**
  
-#### TRAINING & CONFÉRENCES SUIVIES
+#### Formations & Conférences suivies
 
 - DDD Stratégique, par Julien Topçu (Février 2023)
 - Conférence FlowCon (Octobre 2022)
@@ -44,7 +50,7 @@ devops)
 - S’affirmer dans ses relations professionnelles - Assertivité les bases (2019)
 - Talks donnés : voir adrienjoly.com/talks
 
-#### CONFÉRENCES DONNÉES ET PUBLICATIONS
+#### Conférences données et publications
 
 - Décommissionnement progressif de code legacy à l’aide d’AST (Janvier 2023)
 - Coder seul·e == vélocité optimale ? (Décembre 2022)
@@ -55,12 +61,12 @@ devops)
 - Comment rendre un code legacy à nouveau maintenable (Juin 2020)
 - [https://adrienjoly.com/talks/](https://adrienjoly.com/talks/)
 
-#### CENTRES D’INTÉRÊTS
+#### Centres d'intérêt
 
 - Musique : pratique de la batterie en groupe, enregistrement, concerts.
 - Réalisation et maintenance de projets perso open-source (side projects)
 
-### EXPÉRIENCES
+### Expériences
 
 #### Septembre 2022 à Mai 2023 - Omie
 
