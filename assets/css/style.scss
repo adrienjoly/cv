@@ -86,14 +86,6 @@ footer {
   margin-bottom: 46px;
 }
 
-.markdown-body h2::before {
-  content: "- ";
-}
-
-.markdown-body h2::after {
-  content: " -";
-}
-
 .markdown-body h3 {
   clear: both;
   color: white;
