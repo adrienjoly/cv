@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="{{ site.keywords }}">
-    <link href="{{ "/assets/shodo-logo-bw.png?v=" | append: site.github.build_revision | relative_url }}" rel="icon" type="image/x-png">  
+    <link href="{{ "/assets/photo.jpg?v=" | append: site.github.build_revision | relative_url }}" rel="icon" type="image/x-png">  
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
@@ -15,8 +15,7 @@
     <table class="{{ page.containerClass | default: 'container-lg' }} px-3 my-5">
       <tbody><tr><td>
         <div id="pageHost" class="markdown-body">
-          <span id="shodo-watermark">SHODO</span>
-          <img id="shodo-logo" src="{{ "/assets/shodo-logo-bw.png?v=" | append: site.github.build_revision | relative_url }}" alt="SHODO logo" />
+          <img id="photo" src="{{ "/assets/photo.jpg?v=" | append: site.github.build_revision | relative_url }}" alt="photo" />
           {{ content }}
         </div>
       </td></tr></tbody>
@@ -26,7 +25,6 @@
     </table>
 
     <footer class="{{ page.containerClass | default: 'container-lg' }}">
-      <img id="foot-logo" src="{{ "/assets/shodo-logo-bw.png?v=" | append: site.github.build_revision | relative_url }}" alt="SHODO logo" />
       <span id="foot-email">contact@shodo.io</span>
       <span id="foot-shodo">SHODO</span>
     </footer>
