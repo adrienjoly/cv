@@ -68,7 +68,7 @@ devops)
 
 ## Expériences
 
-### Septembre 2022 à Mai 2023 - Omie
+### OMIE (Septembre 2022 à Mai 2023)
 
 **Coach Technique**
 
@@ -99,7 +99,7 @@ Principales actions:
 
 ---
 
-### Avril 2021 à Août 2022 - Choose
+### CHOOSE (Avril 2021 à Août 2022)
 
 **Tech Lead / Coach Craft**
 
@@ -131,7 +131,7 @@ entre Product Managers et développeurs)
 
 ---
 
-### Mars 2020 à Avril 2021 - SIGNAUX FAIBLES / BETA.GOUV
+### SIGNAUX FAIBLES / BETA.GOUV (Mars 2020 à Avril 2021)
 
 **Senior Software Engineer**
 
@@ -152,7 +152,7 @@ Principales réalisations :
 
 ---
 
-### Novembre 2017 à Février 2020 - ALGOLIA
+### ALGOLIA (Novembre 2017 à Février 2020)
 
 **Senior Software Engineer**
 
@@ -175,7 +175,7 @@ devops.
 
 ---
 
-### Avril 2015 à Septembre 2017 - Développeur Indépendant et Entrepreneur Web
+### Développeur Indépendant et Entrepreneur Web (Avril 2015 à Septembre 2017)
 
 **Expériences variées allant du conseil à la production d’applications et de contenus.**
 
@@ -189,7 +189,7 @@ Principales réalisations et prestations :
 
 ---
 
-### Octobre 2010 à Février 2015 - WHYD
+### WHYD (Octobre 2010 à Février 2015)
 
 **Lead Développeur**
 
@@ -211,7 +211,7 @@ implémentation, déploiement, monitoring, débogage, support technique & analyt
 
 ---
 
-### Septembre 2007 à Septembre 2010 – ALCATEL LUCENT BELL LABS
+### ALCATEL LUCENT BELL LABS (Septembre 2007 à Septembre 2010)
 
 **Doctorant CIFRE**
 
@@ -229,7 +229,7 @@ Principales réalisations :
 
 ---
 
-### Octobre 2006 à Août 2007 - ATOS ORIGIN Intégration
+### ATOS ORIGIN Intégration (Octobre 2006 à Août 2007)
 
 **Ingénieur logiciel R&D**
 
