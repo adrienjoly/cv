@@ -10,15 +10,16 @@ $accent-color: #999;
 $footer-height: 36px;
 
 html {
-  line-height: 1.1;
+  line-height: 1.4;
   text-align: justify;
   text-justify: inter-word;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
+  font-size: 16px;
 }
 
 html {
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
 body {
@@ -38,10 +39,13 @@ body > * {
 #photo {
   float: right;
   display: block;
-  width: 100px;
-  height: 100px;
-  margin-bottom: 60px;
+  width: 120px;
+  height: 120px;
+  margin-left: 30px;
+  margin-bottom: 30px;
   border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 footer {
@@ -65,9 +69,11 @@ footer {
 }
 
 .markdown-body {
-  width: 780px;
+  width: 100%;
+  max-width: 780px;
   margin-left: auto;
   margin-right: auto;
+  padding: 0 20px;
 }
 
 .markdown-body h1,
@@ -80,72 +86,115 @@ footer {
 
 .markdown-body h1 {
   color: $accent-color;
-  font-size: 1.5em;
-  line-height: 2.5em;
+  font-size: 1.8em;
+  line-height: 1.4;
+  margin-bottom: 0.3em;
+  font-weight: 400;
 }
 
 .markdown-body h2 {
   color: $accent-color;
-  font-size: 1.4em;
-  font-weight: normal;
-  line-height: 2em;
+  font-size: 1.3em;
+  font-weight: 300;
+  line-height: 1.5;
+  margin-bottom: 1em;
 }
 
 .markdown-body hr {
   clear: both;
   display: block;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  border: 0;
+  border-top: 1px solid #ddd;
 }
 
 .markdown-body h3 {
   display: block;
-  font-size: 1.4em;
+  font-size: 1.3em;
+  font-weight: 600;
   position: relative;
-  margin-top: 40px;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
 }
 
 .markdown-body h4 {
   color: $accent-color;
+  font-size: 1em;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
 
 .markdown-body blockquote {
   color: $accent-color;
-  font-weight: bold;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
+  font-weight: normal;
+  font-style: italic;
+  margin: 1em 0;
+  padding-left: 0;
+  border-left: none;
+}
+
+.markdown-body blockquote p {
+  margin: 0;
+}
+
+.markdown-body p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.6;
 }
 
 .markdown-body ul {
-  list-style: none; /* Remove default bullets */
+  list-style: none;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 0;
+}
+
+.markdown-body ul li {
+  margin-bottom: 0.3em;
+  line-height: 1.6;
 }
 
 .markdown-body ul li::before {
-  content: "\25AA"; /* Add content: 25AA is unicode for a square bullet */
-  color: $accent-color; /* Change the color */
-  font-weight: bold; /* If you want it to be bold */
-  display: inline-block; /* Needed to add space between the bullet and the text */
-  width: 1em; /* Also needed for space (tweak if needed) */
-  margin-left: -1em; /* Also needed for space (tweak if needed) */
+  content: "\25AA";
+  color: $accent-color;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5em 0;
 }
 
 .markdown-body tr {
   vertical-align: top;
 }
 
-.markdown-body td:first-child {
-  white-space: nowrap; /* prevent automatic line breaks in first column of tables */
-  padding-right: 32px;
+.markdown-body td {
+  padding: 0.3em 0;
 }
 
 .markdown-body td:first-child {
-  font-weight: bold;
+  white-space: nowrap;
+  padding-right: 24px;
+  font-weight: 600;
+  min-width: 80px;
 }
 
 .markdown-body td:first-child strong {
   color: $accent-color;
+  font-weight: 600;
+}
+
+.markdown-body em {
+  font-style: italic;
+  color: #666;
 }
 
 /* repeat footer on every page, when printed, e.g. to PDF */
@@ -164,7 +213,7 @@ footer {
   }
 
   html {
-    padding-top: 58px;
+    padding-top: 40px;
   }  
 
   p {
@@ -183,4 +232,49 @@ footer {
     margin-bottom: -100px;
   }
 
+}
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+  html {
+    padding-top: 40px;
+    font-size: 14px;
+  }
+
+  .markdown-body {
+    padding: 0 16px;
+  }
+
+  .markdown-body h1 {
+    font-size: 1.6em;
+  }
+
+  .markdown-body h2 {
+    font-size: 1.2em;
+  }
+
+  .markdown-body h3 {
+    font-size: 1.2em;
+    margin-top: 1.5em;
+  }
+
+  #photo {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 30px;
+  }
+
+  .markdown-body td:first-child {
+    padding-right: 12px;
+    min-width: 60px;
+  }
+
+  .markdown-body table {
+    font-size: 0.95em;
+  }
+
+  .px-3 {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
 }
