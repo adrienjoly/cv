@@ -8,26 +8,6 @@ Montreuil / Paris, France
 
 J'aide les équipes de développement à produire des logiciels utiles et robustes, sur le long terme.
 
-## Formation
-
-| **2010** | **Doctorat en Informatique / Recherche d’Information et Adaptation au Contexte** |
-|          | Thèse CIFRE entre INSA de LYON et Alcatel Lucent Bell Labs                       |
-|          |                                                                                  |
-| **2006** | **Diplôme d’Ingénieur en Informatique**                                          |
-|          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                        |
-
-## Compétences
-
-### Techniques
-
-| Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), **BDD**, **TDD**, Agile, Pair-programming, Refactoring Legacy, MicroServices |
-| DevOps :                 | **Docker**, Google Cloud, Kubernetes, Terraform, GitHub Actions |
-| Langages & Plateformes : | **JavaScript**, **TypeScript**, **Node.JS**, Go, C++, Java |
-| Frameworks :             | **Express.JS**, Fastify, Apollo, React.JS, Vue.JS |
-| SGBD :                   | **MongoDB**, Firebase, **PostgreSQL**, MySQL, Redis, Elasticsearch |
-| Outils :                 | Visual Studio Code, Eclipse, ESlint |
-| Tests :                  | **Jest**, Mocha, Chai, Jasmine, **Cypress**, Selenium, Cucumber |
-
 ### Domaines d'intervention
 
 - **Accompagnement dans la création de culture et vision d’équipe**, autour du **Craftsmanship**, de la maximisation de la **création de valeur** et de la **gestion de la production**
@@ -39,33 +19,6 @@ devops)
 - **Formation et accompagnement des équipes** dans l’adoption des techniques du **DDD** au niveau tactique (**design logiciel et du SI**) et stratégique (**organisationnel**)
 - **Décommissionnement de Code Legacy par refactoring progressif**
  
-### Formations & Conférences suivies
-
-- DDD Stratégique, par Julien Topçu (Février 2023)
-- Conférence FlowCon (Octobre 2022)
-- Michael FEATHERS – Masterclass Reducing Technical Debt (Juin 2022)
-- Domain Modeling Made Functional with Scott WLASCHIN (Octobre 2020)
-- ParisTestConf (Novembre 2019)
-- SoCraTes (Octobre 2019)
-- S’affirmer dans ses relations professionnelles - Assertivité les bases (2019)
-- Talks donnés : voir adrienjoly.com/talks
-
-### Conférences données et publications
-
-- Décommissionnement progressif de code legacy à l’aide d’AST (Janvier 2023)
-- Coder seul·e == vélocité optimale ? (Décembre 2022)
-- Co-conception pérenne avec Domain Driven Design, retour d’expérience (Septembre 2022)
-- DEVOXX - Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry (Avril 2022)
-- InfoQ - Writing Automated Tests on a Legacy Node.js Back-end (Mars 2022)
-- Coupable de code legacy en JS: comment s’en sortir ? (Octobre 2021)
-- Comment rendre un code legacy à nouveau maintenable (Juin 2020)
-- [https://adrienjoly.com/talks/](https://adrienjoly.com/talks/)
-
-### Centres d'intérêt
-
-- Musique : pratique de la batterie en groupe, enregistrement, concerts.
-- Réalisation et maintenance de projets perso open-source (side projects)
-
 ## Expériences
 
 ### OMIE (Septembre 2022 à Mai 2023)
@@ -97,8 +50,6 @@ Principales actions:
 
 > Environnement : TYPESCRIPT, NEXT.JS, GITHUB ACTIONS
 
----
-
 ### CHOOSE (Avril 2021 à Août 2022)
 
 **Tech Lead / Coach Craft**
@@ -129,8 +80,6 @@ entre Product Managers et développeurs)
  
 > Environnement : TYPESCRIPT, NODE.JS, DOCKER, POSTGRESQL, JEST, GOOGLE CLOUD, GITHUB ACTIONS
 
----
-
 ### SIGNAUX FAIBLES / BETA.GOUV (Mars 2020 à Avril 2021)
 
 **Senior Software Engineer**
@@ -149,8 +98,6 @@ Principales réalisations :
 - Amélioration progressive de la fiabilité et des performances des traitements de données
 
 > Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, GOLANG, DOCKER, MONGODB
-
----
 
 ### ALGOLIA (Novembre 2017 à Février 2020)
 
@@ -173,8 +120,6 @@ devops.
 
 > Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, EXPRESS.JS, REACT.JS, JEST, CYPRESS, ESLINT, GIT, DOCKER, KUBERNETES, RABBITMQ, REDIS, GOOGLE CLOUD
 
----
-
 ### Développeur Indépendant et Entrepreneur Web (Avril 2015 à Septembre 2017)
 
 **Expériences variées allant du conseil à la production d’applications et de contenus.**
@@ -186,8 +131,6 @@ Principales réalisations et prestations :
 - Co-production d’un MOOC en Français sur comment lancer une startup avec la méthode Lean: [https://www.udemy.com/course/startuptour/](https://www.udemy.com/course/startuptour/)
 
 > Environnement : JAVASCRIPT, NODE.JS, METEOR.JS, MONGODB
-
----
 
 ### WHYD (Octobre 2010 à Février 2015)
 
@@ -209,8 +152,6 @@ implémentation, déploiement, monitoring, débogage, support technique & analyt
 
 > Environnement : JAVASCRIPT, NODE.JS, MONGODB, JQUERY, FREEBASE
 
----
-
 ### ALCATEL LUCENT BELL LABS (Septembre 2007 à Septembre 2010)
 
 **Doctorant CIFRE**
@@ -227,8 +168,6 @@ Principales réalisations :
 
 > Environnement : JAVA, JAVASCRIPT
 
----
-
 ### ATOS ORIGIN Intégration (Octobre 2006 à Août 2007)
 
 **Ingénieur logiciel R&D**
@@ -243,3 +182,51 @@ Principales réalisations :
 
 > Environnement : C++, VISUAL STUDIO, WINDOWS MOBILE
  
+## Formation
+
+| **2010** | **Doctorat en Informatique / Recherche d’Information et Adaptation au Contexte** |
+|          | Thèse CIFRE entre INSA de LYON et Alcatel Lucent Bell Labs                       |
+|          |                                                                                  |
+| **2006** | **Diplôme d’Ingénieur en Informatique**                                          |
+|          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                        |
+
+## Compétences
+
+### Techniques
+
+| Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), **BDD**, **TDD**, Agile, Pair-programming, Refactoring Legacy, MicroServices |
+| DevOps :                 | **Docker**, Google Cloud, Kubernetes, Terraform, GitHub Actions |
+| Langages & Plateformes : | **JavaScript**, **TypeScript**, **Node.JS**, Go, C++, Java |
+| Frameworks :             | **Express.JS**, Fastify, Apollo, React.JS, Vue.JS |
+| SGBD :                   | **MongoDB**, Firebase, **PostgreSQL**, MySQL, Redis, Elasticsearch |
+| Outils :                 | Visual Studio Code, Eclipse, ESlint |
+| Tests :                  | **Jest**, Mocha, Chai, Jasmine, **Cypress**, Selenium, Cucumber |
+
+## Autres
+
+### Conférences données et publications
+
+- Décommissionnement progressif de code legacy à l’aide d’AST (Janvier 2023)
+- Coder seul·e == vélocité optimale ? (Décembre 2022)
+- Co-conception pérenne avec Domain Driven Design, retour d’expérience (Septembre 2022)
+- DEVOXX - Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry (Avril 2022)
+- InfoQ - Writing Automated Tests on a Legacy Node.js Back-end (Mars 2022)
+- Coupable de code legacy en JS: comment s’en sortir ? (Octobre 2021)
+- Comment rendre un code legacy à nouveau maintenable (Juin 2020)
+- [https://adrienjoly.com/talks/](https://adrienjoly.com/talks/)
+
+### Formations & Conférences suivies
+
+- DDD Stratégique, par Julien Topçu (Février 2023)
+- Conférence FlowCon (Octobre 2022)
+- Michael FEATHERS – Masterclass Reducing Technical Debt (Juin 2022)
+- Domain Modeling Made Functional with Scott WLASCHIN (Octobre 2020)
+- ParisTestConf (Novembre 2019)
+- SoCraTes (Octobre 2019)
+- S’affirmer dans ses relations professionnelles - Assertivité les bases (2019)
+- Talks donnés : voir adrienjoly.com/talks
+
+### Centres d'intérêt
+
+- Musique : pratique de la batterie en groupe, enregistrement, concerts.
+- Réalisation et maintenance de projets open-source, dont openwhyd.org
