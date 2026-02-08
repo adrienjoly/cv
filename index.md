@@ -10,7 +10,7 @@ Ingénieur logiciel depuis 2006, j'aide les équipes de développement à produi
 
 ### Publications
 
-Auteur de 7 publications scientifiques internationales et co-auteur de 3 brevets, j'ai également publié des [articles techniques](https://adrienjoly.com/posts/), dont:
+Auteur de 7 publications scientifiques internationales et co-auteur de 3 brevets, j'ai également publié des [articles techniques](https://adrienjoly.com/posts/), dont :
 
 - InfoQ - How to Sustain Quality and Velocity in a JavaScript or TypeScript Project? (Octobre 2023)
 - InfoQ - Turning a Node.js Monolith into a Monorepo without Disrupting the Team (Octobre 2022)
@@ -19,10 +19,10 @@ Auteur de 7 publications scientifiques internationales et co-auteur de 3 brevets
 
 ### Conférences données
 
-En plus de mes interventions dans des conférences scientifiques internationales pendant ma thèse de doctorat, j'ai ensuite donné [nombreux talks dans des conférences techniques](https://adrienjoly.com/talks/), dont:
+En plus de mes interventions dans des conférences scientifiques internationales pendant ma thèse de doctorat, j'ai ensuite donné de [nombreux talks dans des conférences techniques](https://adrienjoly.com/talks/), dont :
 
 - The JS Files - Détecter les bugs depuis son IDE (Juin 2025)
-- Comment m̶a̶l̶ communiquer avec ses collègues (Juillet 2023)
+- Comment ~~mal~~ communiquer avec ses collègues (Juillet 2023)
 - Décommissionnement progressif de code legacy à l’aide d’AST (Janvier 2023)
 - Coder seul·e == vélocité optimale ? (Décembre 2022)
 - Co-conception pérenne avec Domain Driven Design, retour d’expérience (Septembre 2022)
@@ -39,9 +39,9 @@ En plus de mes interventions dans des conférences scientifiques internationales
 En tant que responsable technique de l'équipe "Learning Assistant":
 
 - Industrialisation de prototypes en vue de leur utilisation à l'échelle par nos clients.
-- Conduite du développement de prototypes s'appuyant sur des graphes de requêtes LLM, ainsi que d'agents conversationnels en temps réél.
+- Conduite du développement de prototypes s'appuyant sur des graphes de requêtes LLM, ainsi que d'agents conversationnels en temps réel.
 - Accompagnement de développeurs et ingénieurs R&D pour leur montée en compétences.
-- Constitution et priorisation de roadmap de l'équipe, en binome avec sa Product Manager.
+- Constitution et priorisation de roadmap de l'équipe, en binôme avec sa Product Manager.
 - Ingénierie de solutions pour convaincre nos futurs clients.
 
 ### HEAL.DEV (2023 - 2024)
@@ -50,14 +50,14 @@ En tant que responsable technique de l'équipe "Learning Assistant":
 
 - Conduite du développement et de la maintenance d'un agent web exécutant des **tâches exprimées en langage naturel** sur n'importe quel site web.
 - Conception, intégration, tests, documentation et maintenance de dizaines de fonctionnalités impliquant des appels LLM et diverses API externes, en réponse aux besoins des clients.
-- développement d'outils internes pour exécuter des **tests automatisés sur les fonctionnalités non déterministes et suivre les régressions**, afin d'accélérer le processus de développement tout en réduisant les défauts.
+- Développement d'outils internes pour exécuter des **tests automatisés sur les fonctionnalités non déterministes et suivre les régressions**, afin d'accélérer le processus de développement tout en réduisant les défauts.
 - Éradication des erreurs de typage en production, en **formant l'équipe à la vérification statique de types** à l'aide d'annotations TypeScript dans le monorepo JavaScript, sans nécessiter de transpilation.
 
 ### SHODO (2020 - 2023)
 
 *Shodo est une ESN spécialisée en conseil et ingénierie logicielle, accompagnant les organisations dans leurs projets IT tout en promouvant un modèle transparent et équitable inspiré du software craftsmanship.*
 
-Mission chez **OMIE** (startup dans le domaine alimentaire): accompagnement de deux équipes de développement, au côté du CTO, sur aspects stratégiques, techniques et organisationnels.
+Mission chez **OMIE** (startup dans le domaine alimentaire): accompagnement de deux équipes de développement, aux côtés du CTO, sur aspects stratégiques, techniques et organisationnels.
 
 - **Accélération des livraisons produit** : animation d’ateliers, formation aux tests automatisés et accompagnement à la résolution de régressions, permettant de réduire le temps de cycle et l’effort de QA.
 - **Montée en compétence et efficacité collective** : coaching des développeurs (pair/mob programming, TDD, clean architecture) et pilotage d’une migration front-end vers Next.js / ISR, améliorant les performances et les pratiques collaboratives.
@@ -79,7 +79,7 @@ Mission chez **CHOOSE** (startup e-commerce): en vue de leur implantation aux US
   <p>Pierre Camilleri – Data Scientist, Signaux Faibles / Banque de France</p>
 </div>
 
-Mission chez **SIGNAUX FAIBLE** (Startup d'État): industrialisation d'un pipeline d'intégration de données pour prévenir les erreurs lors de l'exécution de traitements durant plusieurs heures.
+Mission chez **SIGNAUX FAIBLES** (Startup d'État): industrialisation d'un pipeline d'intégration de données pour prévenir les erreurs lors de l'exécution de traitements durant plusieurs heures.
 
 - **Industrialisation d’une chaîne de traitement critique** : audit complet de l’existant et déploiement de tests automatisés, CI, typage statique et documentation, réduisant les anomalies et sécurisant les évolutions.
 - **Amélioration mesurable de la qualité logicielle** : accompagnement de l’équipe (5 ingénieurs) aux pratiques Clean Code, augmentation progressive de la couverture de tests et fiabilisation des traitements de données.
@@ -101,7 +101,7 @@ Principales réalisations :
 - Migration et maintenance de l’infrastructure du produit vers Google Kubernetes Engine dans une culture devops.
 - Développement de briques clés : API REST, intégration Google Analytics, parsing PDF...
 - Mise en place de deux documentations : utilisateur et maintenance.
-- Collaboration en langue Anglaise avec collègues français, européens et américains.
+- Collaboration en langue anglaise avec collègues français, européens et américains.
 
 > Environnement : JAVASCRIPT/TYPESCRIPT, NODE.JS, EXPRESS.JS, REACT.JS, JEST, CYPRESS, ESLINT, GIT, DOCKER, KUBERNETES, RABBITMQ, REDIS, GOOGLE CLOUD
 
