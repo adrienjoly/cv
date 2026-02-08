@@ -189,7 +189,6 @@ footer {
 
 .markdown-body td:first-child strong {
   color: $accent-color;
-  font-weight: 600;
 }
 
 .markdown-body em {
@@ -261,6 +260,7 @@ footer {
   #photo {
     width: 80px;
     height: 80px;
+    margin-left: 20px;
     margin-bottom: 30px;
   }
 
