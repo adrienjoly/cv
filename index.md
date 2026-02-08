@@ -1,14 +1,14 @@
 # Adrien JOLY
 
-## Montreuil / Paris, France
+Montreuil / Paris, France
 
 ---
 
-### À propos
+## À propos
 
 J'aide les équipes de développement à produire des logiciels utiles et robustes, sur le long terme.
 
-### Formation
+## Formation
 
 | **2010** | **Doctorat en Informatique / Recherche d’Information et Adaptation au Contexte** |
 |          | Thèse CIFRE entre INSA de LYON et Alcatel Lucent Bell Labs                       |
@@ -16,9 +16,9 @@ J'aide les équipes de développement à produire des logiciels utiles et robust
 | **2006** | **Diplôme d’Ingénieur en Informatique**                                          |
 |          | INSA de LYON + année d’échange à QUT, Brisbane, Australie                        |
 
-### Compétences
+## Compétences
 
-#### Techniques
+### Techniques
 
 | Méthodologie :           | **DDD** (Event Storming, Architecture Hexagonale), **BDD**, **TDD**, Agile, Pair-programming, Refactoring Legacy, MicroServices |
 | DevOps :                 | **Docker**, Google Cloud, Kubernetes, Terraform, GitHub Actions |
@@ -28,7 +28,7 @@ J'aide les équipes de développement à produire des logiciels utiles et robust
 | Outils :                 | Visual Studio Code, Eclipse, ESlint |
 | Tests :                  | **Jest**, Mocha, Chai, Jasmine, **Cypress**, Selenium, Cucumber |
 
-#### Domaines d'intervention
+### Domaines d'intervention
 
 - **Accompagnement dans la création de culture et vision d’équipe**, autour du **Craftsmanship**, de la maximisation de la **création de valeur** et de la **gestion de la production**
 - Conduite d’équipe de développement et mise en place d’Architecture MicroServices
@@ -39,7 +39,7 @@ devops)
 - **Formation et accompagnement des équipes** dans l’adoption des techniques du **DDD** au niveau tactique (**design logiciel et du SI**) et stratégique (**organisationnel**)
 - **Décommissionnement de Code Legacy par refactoring progressif**
  
-#### Formations & Conférences suivies
+### Formations & Conférences suivies
 
 - DDD Stratégique, par Julien Topçu (Février 2023)
 - Conférence FlowCon (Octobre 2022)
@@ -50,7 +50,7 @@ devops)
 - S’affirmer dans ses relations professionnelles - Assertivité les bases (2019)
 - Talks donnés : voir adrienjoly.com/talks
 
-#### Conférences données et publications
+### Conférences données et publications
 
 - Décommissionnement progressif de code legacy à l’aide d’AST (Janvier 2023)
 - Coder seul·e == vélocité optimale ? (Décembre 2022)
@@ -61,14 +61,14 @@ devops)
 - Comment rendre un code legacy à nouveau maintenable (Juin 2020)
 - [https://adrienjoly.com/talks/](https://adrienjoly.com/talks/)
 
-#### Centres d'intérêt
+### Centres d'intérêt
 
 - Musique : pratique de la batterie en groupe, enregistrement, concerts.
 - Réalisation et maintenance de projets perso open-source (side projects)
 
-### Expériences
+## Expériences
 
-#### Septembre 2022 à Mai 2023 - Omie
+### Septembre 2022 à Mai 2023 - Omie
 
 **Coach Technique**
 
@@ -99,7 +99,7 @@ Principales actions:
 
 ---
 
-#### Avril 2021 à Août 2022 - Choose
+### Avril 2021 à Août 2022 - Choose
 
 **Tech Lead / Coach Craft**
 
@@ -131,7 +131,7 @@ entre Product Managers et développeurs)
 
 ---
 
-#### Mars 2020 à Avril 2021 - SIGNAUX FAIBLES / BETA.GOUV
+### Mars 2020 à Avril 2021 - SIGNAUX FAIBLES / BETA.GOUV
 
 **Senior Software Engineer**
 
@@ -152,7 +152,7 @@ Principales réalisations :
 
 ---
 
-#### Novembre 2017 à Février 2020 - ALGOLIA
+### Novembre 2017 à Février 2020 - ALGOLIA
 
 **Senior Software Engineer**
 
@@ -175,7 +175,7 @@ devops.
 
 ---
 
-#### Avril 2015 à Septembre 2017 - Développeur Indépendant et Entrepreneur Web
+### Avril 2015 à Septembre 2017 - Développeur Indépendant et Entrepreneur Web
 
 **Expériences variées allant du conseil à la production d’applications et de contenus.**
 
@@ -189,7 +189,7 @@ Principales réalisations et prestations :
 
 ---
 
-#### Octobre 2010 à Février 2015 - WHYD
+### Octobre 2010 à Février 2015 - WHYD
 
 **Lead Développeur**
 
@@ -211,7 +211,7 @@ implémentation, déploiement, monitoring, débogage, support technique & analyt
 
 ---
 
-#### Septembre 2007 à Septembre 2010 – ALCATEL LUCENT BELL LABS
+### Septembre 2007 à Septembre 2010 – ALCATEL LUCENT BELL LABS
 
 **Doctorant CIFRE**
 
@@ -229,7 +229,7 @@ Principales réalisations :
 
 ---
 
-#### Octobre 2006 à Août 2007 - ATOS ORIGIN Intégration
+### Octobre 2006 à Août 2007 - ATOS ORIGIN Intégration
 
 **Ingénieur logiciel R&D**
 
