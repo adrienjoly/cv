@@ -178,6 +178,15 @@ footer {
   color: #666;
 }
 
+.quote {
+  background-color: #EFEFEF;
+  padding: 1em 1.5em;
+  border-left: 4px solid $accent-color;
+  color: #666;
+  font-style: italic;
+  margin: 1em 0;
+}
+
 /* repeat footer on every page, when printed, e.g. to PDF */
 @media print {
   footer, .footer-space {
